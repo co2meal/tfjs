@@ -60,6 +60,6 @@
   "dependencies": {
     "@tensorflow/tfjs-converter": "0.5.9",
     "@tensorflow/tfjs-core": "0.12.15",
-    "@tensorflow/tfjs-layers": "0.7.5"
+    "@tensorflow/tfjs-layers": "github:co2meal/tfjs-layers",
   }
 }

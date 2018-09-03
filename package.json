@@ -30,7 +30,7 @@
     "karma-chrome-launcher": "~2.2.0",
     "karma-firefox-launcher": "~1.1.0",
     "karma-jasmine": "~1.1.1",
-    "karma-typescript": "~3.0.12",
+    "karma-typescript": "^3.0.13",
     "mkdirp": "~0.5.1",
     "nodemon": "1.17.3",
     "rimraf": "~2.6.2",
@@ -60,6 +60,6 @@
   "dependencies": {
     "@tensorflow/tfjs-converter": "0.5.9",
     "@tensorflow/tfjs-core": "0.12.15",
-    "@tensorflow/tfjs-layers": "github:co2meal/tfjs-layers",
+    "@tensorflow/tfjs-layers": "github:co2meal/tfjs-layers"
   }
 }
